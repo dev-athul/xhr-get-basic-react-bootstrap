@@ -1,0 +1,17 @@
+#xhr-table{
+    margin: auto;
+    padding: auto;
+    width: 50%;
+}
+
+#xhr-table table{
+    -webkit-box-shadow: 5px 5px 22px 5px rgba(0,0,0,0.39); 
+    box-shadow: 5px 5px 22px 5px rgba(0,0,0,0.39);
+}
+
+#xhr-table h1{
+    text-align: center;
+    margin: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
